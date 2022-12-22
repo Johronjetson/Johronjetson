@@ -5,7 +5,9 @@ DAW
 robotics 
 programming
 automation 
-- 🌱 I’m currently learning ... systems 
+code 
+- 🌱 I’m currently learning ... systems & python 
+c++ 
 - 💞️ I’m looking to collaborate on ... web development & code
 - 📫 How to reach me ... 
 johronjetson@gmail.com
