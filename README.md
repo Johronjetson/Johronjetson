@@ -6,7 +6,9 @@ robotics
 programming
 automation 
 code 
-- 🌱 I’m currently learning ... systems & python 
+- 🌱 I’m currently learning ... 
+systems
+python 
 c++ 
 - 💞️ I’m looking to collaborate on ... web development & code
 - 📫 How to reach me ... 
